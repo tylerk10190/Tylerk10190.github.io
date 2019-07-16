@@ -1,0 +1,95 @@
+
+
+body{
+background-image: url(http://sf.co.ua/12/09/wallpaper-363914.jpg);
+background-size: cover; 
+}
+h1{
+	color:white;
+}
+.boldclass{
+font-weight: bold
+}
+#bigId{
+	font-size: 50px;
+}
+th{
+	padding: 60px;
+}
+th{
+	font-size: 20px	
+}
+.whiteText{
+	color:white;
+	font-weight: bold
+	width: 600px;
+}
+.menuclass{
+	background-color: white;
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-left: 20px;
+
+}
+.navbarclass{
+	background-color: white;
+	display: inline-block;
+	padding-bottom: 5px;
+	padding-top: 10px;
+	margin-top: 55px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-right: 65px;
+	padding-left: 65px
+}
+.roundimageclass{
+	border-radius: 50%
+}
+.SocMedIconsclass{
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+	border-width: 20px
+}
+.cornerimageclass{
+	size: 40px 40px;
+}
+.buttonclass{
+	padding: 20px 65px;
+	color: navy blue;
+	background-color: white;
+	font-weight: bold;
+	font-size: 16px;
+}
+.smallcontainer{
+	border-radius: 5px;
+	background-color: white;
+	padding: 20px;
+}
+.largecontainer{
+	border-radius: 15px
+	border-color: white;
+	background-color: gray;
+	opacity: 0.5;
+	padding: 20px 20px;
+	margin-left: 60px:
+	margin-right: 60px;
+}
+input[type=text], select, textarea{
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+.commentcontainer{
+	border-radius: 5px
+	background-color: transparent;
+	padding: 20px;
+	height: 140px
+}
+
